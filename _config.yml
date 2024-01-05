@@ -7,14 +7,14 @@ google_analytics: "UA-46465113-2"
 
 # UI configs
 title: "Photos by Ben"
-subtitle: "A small library of pictures"
+subtitle: "A small library"
 header:
  title: "Photos"
  subtitle: "By Ben"
 footer:
  name: "Photos by Ben"
- bio: "Photography has been a hobby of mine for many years. So has web development. By unioning the two, we get this website. All images are royalty-free."
- github: "Check out my <a href=\"https://datsko.dev\">personal site</a>. <br><br> Inspired by <a href=\"https://github.com/ramswaroop/photography\">Ram Patra</a>."
+ bio: "In my spare time, I enjoy learning about photography. This site is a collection of some of the things I've shot through the years. All images are royalty-free :)"
+ github: "Check out my <a href=\"https://datsko.dev\">personal site</a> if you'd like to get in contact with me. <br><br> Forked from <a href=\"https://github.com/ramswaroop/photography\">Ram Patra</a>."
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
