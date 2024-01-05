@@ -32,7 +32,7 @@ crashlytics-build.properties
 */**/.DS_Store
 
 ### Jekyll template
-_site/
+# _site/
 .sass-cache/
 .jekyll-metadata
 
