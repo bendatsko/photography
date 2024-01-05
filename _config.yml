@@ -12,9 +12,9 @@ header:
  title: "Photos"
  subtitle: "By Ben"
 footer:
- name: "Photos by Ben"
- bio: "In my spare time, I enjoy learning about photography. This site is a collection of some of the things I've shot through the years. All images are royalty-free :)"
- github: "Check out my <a href=\"https://datsko.dev\">personal site</a> if you'd like to get in contact with me. <br><br> Forked from <a href=\"https://github.com/ramswaroop/photography\">Ram Patra</a>."
+ name: "About"
+ bio: "In my spare time, I enjoy learning about photography. This site is a collection of some of the things I've shot over the years. All images are royalty-free."
+ github: "Check out my <a href=\"https://datsko.dev\">personal site</a> if you'd like to get in contact with me. <br><br>Inspired by <a href=\"https://github.com/ramswaroop/photography\">Ram Patra</a>."
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
 exif: '[{"tag": "Model", "icon": "camera-retro"}, {"tag": "FNumber", "icon": "dot-circle-o"}, {"tag": "ExposureTime", "icon": "clock-o"}, {"tag": "ISOSpeedRatings", "icon": "info-circle"}]'
